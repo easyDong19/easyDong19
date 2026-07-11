@@ -29,9 +29,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-### 📊 GitHub Stats
-![easyDong19's stats](https://github-readme-stats.vercel.app/api?username=easyDong19&show_icons=true&hide_border=true)
-
 ### 🔗 Links
 - 🌐 Blog · https://dong-coding.vercel.app
 - 💌 Email · ymh1353@naver.com
