@@ -31,4 +31,5 @@
 
 ### 🔗 Links
 - 🌐 Blog · https://dong-coding.vercel.app
+- 📄 경력기술서 · [바로보기](https://github.com/easyDong19/easyDong19/blob/main/resume.pdf)
 - 💌 Email · ymh1353@naver.com
