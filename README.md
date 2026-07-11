@@ -1,4 +1,3 @@
-<h1 align="center">안녕하세요, 유동연입니다 👋</h1>
 <p align="center"><em>"코드는 쉽지, 말을 보여줘" — dongCoding</em></p>
 
 ---
