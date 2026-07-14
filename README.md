@@ -21,7 +21,7 @@
 
 ### 🚀 Projects
 - **[dongCoding](https://dong-coding.vercel.app)** · 개발 기록을 정리하는 개인 블로그 (Next.js SSG)
-- **eduForSori** · 기획자와 협업해 만든 지식 아티팩트
+
 
 ### 🛠️ Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
