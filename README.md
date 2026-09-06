@@ -11,8 +11,8 @@
 - **2016.03 ~ 2018.02** · 한국디지털미디어고등학교 해킹방어과
 
 ### 📜 Certificates
-- 정보처리기사 · SQLD · ADSP
-- 네트워크 관리사 2급 · 투자자산운용사
+- 정보처리기사 · SQLD · ADSP · 네트워크 관리사 2급 
+- 투자자산운용사
 
 ### 🚀 Projects
 - **[dongCoding](https://dong-coding.vercel.app)** · 개발 기록을 정리하는 개인 블로그 (Next.js SSG)
