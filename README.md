@@ -28,4 +28,5 @@
 - 🌐 Blog · https://dong-coding.vercel.app
 - 📄 경력기술서 · [바로보기](https://github.com/easyDong19/easyDong19/blob/main/resume.pdf)
 - 📐 포트폴리오 · [바로보기](https://github.com/easyDong19/easyDong19/blob/main/portfolio.pdf)
+- 📚 포트폴리오 합본 (회사 · 개인 프로젝트) · [바로보기](https://github.com/easyDong19/easyDong19/blob/main/portfolio-combined.pdf)
 - 💌 Email · ymh1353@naver.com
